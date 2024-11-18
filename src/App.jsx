@@ -3,7 +3,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Container, Navbar, Nav } from "react-bootstrap";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import "./app.css";
+import "./App.css";
 
 import Home from "./home";
 import About from "./about";
