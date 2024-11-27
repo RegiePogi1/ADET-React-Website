@@ -16,7 +16,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Navbar bg="dark" variant="dark">
+        <Navbar bg={bg} alt="Background">
           <Container>
             <h1 class="title">My Website :D</h1>
             <Nav className="me-auto" class="nav">
