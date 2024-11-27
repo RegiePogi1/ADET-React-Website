@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Regie from './assets/Regie.jpg';
 function About() {
   return (
     <form class="form2">
