@@ -93,7 +93,7 @@ a:hover {
 }
 body{
     margin: auto 0;
-    background-image: url(assets/bg.jpg);
+    background-image: url('assets/bg.jpg');
     background-type: cover;
 }
 
