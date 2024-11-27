@@ -17,7 +17,7 @@ function App() {
       <div className="App">
         <Navbar bg="dark" variant="dark">
           <Container>
-            <h1 class="title">My Personal Website</h1>
+            <h1 class="title">My Website :D</h1>
             <Nav className="me-auto" class="nav">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/about">About</Nav.Link>
