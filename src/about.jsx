@@ -6,7 +6,7 @@ function About() {
       <h1>
         About
       </h1>
-      <img src='assets/Regie.jpg' class="logo1"></img>
+      <img src={Regie} class="logo1"></img>
       <p>
         I'm Regie Namora. I'm the creator of this Website
       </p>
